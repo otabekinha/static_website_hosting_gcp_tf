@@ -120,5 +120,5 @@ When you're done with your resources and want to tear them down, run this comman
 
 ## You have sucessefully depoyed a static website using GCP with Terraform
 
-  * [If you have any problems or questions reach me on](https://linktr.ee/otabekinha)
+  * [If you have any problems or questions reach me on LinkedIn or YouTube](https://linktr.ee/otabekinha)
   * Thanks for reaching until here and all the best with your future works
