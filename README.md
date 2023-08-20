@@ -119,6 +119,10 @@ When you're done with your resources and want to tear them down, run this comman
   * Then click on Cloud Storage
   * Click on your bucket
   * Copy URL and check it in a Incognito Window
+  * Remember that the URL will be in the format:
+    ```
+    https://<bucket-name>.storage.googleapis.com
+    ```
 
 ## You have sucessefully depoyed a static website using GCP with Terraform
 
