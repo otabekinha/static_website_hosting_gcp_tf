@@ -1,7 +1,7 @@
 # Deploy a static website using Google Cloud Storage and Terraform
 In this repo, I will provide with you all the details of deploying a static website using Google Cloud Storage and Terraform
 
-![Terraform with GCP]([http://url/to/img.png](https://drive.google.com/file/d/1q2Rt-LVWtP9gCiasNrpADuCdvtV80y4n/view?usp=drive_link))
+![Terraform with GCP](https://drive.google.com/file/d/1q2Rt-LVWtP9gCiasNrpADuCdvtV80y4n/view?usp=drive_link)
 
 ## Prerequisites
 
